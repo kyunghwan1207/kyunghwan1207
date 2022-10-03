@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm **Kyunghwan Ko**, a passionate self-taught BackEnd web developer from South Korea.
+I'm **Kyunghwan Ko**, a BackEnd developer who loves to communicate, from South Korea.
 
-I enjoy playing badminton, walking and running, watching movie and listening to music. 🎬🎵
+I enjoy playing badminton🏸, walking and running🏃, hiking ⛰️, watching movie and listening to music. 🎬🎵
 
-![](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kyunghwan1207)
+<a href="https://velog.io/@kyunghwan1207"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 + ✨ I hope to develop web applications that many people like. 
 + 🌱 I'm currently learning ![Spring Boot Badge](https://img.shields.io/badge/Spring_Boot-yellowgreen?style=flat-square&logo=springboot) & ![](https://camo.githubusercontent.com/f327d71e799e406fe3e3a9d4ad1873e713a4a0cdadcaaf20f546f2745c3e975b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a6176612d3366343434313f7374796c653d706c6173746963266c6f676f3d6a617661) 
