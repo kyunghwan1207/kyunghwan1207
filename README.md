@@ -4,13 +4,23 @@ I'm **Kyunghwan Ko**, a BackEnd developer who loves to communicate, from South K
 
 I enjoy playing badminton🏸, walking and running🏃, hiking ⛰️, watching movie and listening to music. 🎬🎵
 
-<a href="https://velog.io/@kyunghwan1207"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://velog.io/@kyunghwan1207"><img src="https://img.shields.io/badge/Tech_Blog-11B48A?style=for-the-badge&logo=vimeo&logoColor=white"/></a>
+<div title="kyunghwanko1207@gmail.com">
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJvnrrXTcvDlJLgnDpQCXlcdPMkMCzxVnQHBlsZVRTJpNtmKHTbcQXRrQvtcfRfTHMksnjB"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
 
 + ✨ I hope to develop web applications that many people like. 
-+ 🌱 I'm currently learning ![Spring Boot Badge](https://img.shields.io/badge/Spring_Boot-yellowgreen?style=flat-square&logo=springboot) & ![](https://camo.githubusercontent.com/f327d71e799e406fe3e3a9d4ad1873e713a4a0cdadcaaf20f546f2745c3e975b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a6176612d3366343434313f7374796c653d706c6173746963266c6f676f3d6a617661) 
-+ My Skill: ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-9cf?style=flat-square&logo=postgresql), ![MySQL Badge](https://img.shields.io/badge/MySQL-9cf?style=flat-square&logo=mysql)
-, ![](https://camo.githubusercontent.com/be7e031ad3e9583082c92bf654cbb7a80dd0a41d3318ef04048800115bdf04e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3866636664313f7374796c653d706c6173746963266c6f676f3d507974686f6e)
-, ![HTML5 Badge](https://img.shields.io/badge/HTML5-important?style=flat-square&logo=html5), ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3), ![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript), ![](https://camo.githubusercontent.com/ef8e66167a75bde2cd8212d194ee612fd443bb831c5257591c081df4e9d8759e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d706c6173746963266c6f676f3d676974), ![](https://camo.githubusercontent.com/69b47690e0367186ca3daae37582f1bfe5e61020c5ede6f0f44ef609a1be75c6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446a616e676f2d3039324532303f7374796c653d706c6173746963266c6f676f3d446a616e676f)
++ 🌱 I'm currently learning
+  ![Spring Boot Badge](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) & ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) & ![Redis Badge](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
++ My Skill:
+
+|**Category**|**Skill**|
+|:---: | :---: |
+|**Programming Language**| ![Java Badge](https://img.shields.io/badge/Java11-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python Badge](https://img.shields.io/badge/Python3-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)|
+| **Framework / Library** | ![Spring Boot Badge](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB), ![NEXTJS Badge](https://img.shields.io/badge/NEXT_JS-20232A?style=for-the-badge&logo=next&logoColor=61DAFB), ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+|**Server**| ![Tomcat Badge](https://img.shields.io/badge/tomcat-F7DF1E?style=for-the-badge&logo=tomcat&logoColor=black) ![Nginx Badge](https://img.shields.io/badge/Nginx-20232A?style=for-the-badge&logo=nginx&logoColor=61DAFB) ![AWS EC2](https://img.shields.io/badge/AWS_EC2-ED8B00?style=for-the-badge&logo=ec2&logoColor=white), ![NodeJS Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)|
+|**Toolig / DevOps**| ![AWS Lambda Badge](https://img.shields.io/badge/AWS_LAMBDA-ED8B00?style=for-the-badge&logo=aws&logoColor=white) ![RDS Badge](https://img.shields.io/badge/AWS_RDS-005C84?style=for-the-badge&logo=rds&logoColor=white), ![S3 Badge](https://img.shields.io/badge/AWS_S3-ED8B00?style=for-the-badge&logo=s3&logoColor=white), ![Docker Badge](https://img.shields.io/badge/docker-005C84?style=for-the-badge&logo=docker&logoColor=white)|
+|**DataBase**| RDBMS(![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white), ![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)), Key-Value(![Redis Badge](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white))
 
 <details>
 <summary>✨GitHub Status✨</summary>
